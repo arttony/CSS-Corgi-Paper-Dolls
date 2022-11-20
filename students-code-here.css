@@ -1,0 +1,44 @@
+/* glasses*/
+/*.monocle{
+    position: relative;
+    left: 15.5em;
+    top: 2.5em;
+}
+
+.sunglasses{
+    position: relative;
+    left: 13.5em;
+    bottom: 2em;
+}*/
+
+.funny-glasses{
+    position: relative;
+    left: 13.25em;
+    bottom: 6.8em;
+}
+
+/*collars*/
+.bandana{
+    position: absolute;
+    left: 7em;
+    top: 11em;
+}
+
+/*pawprint*/
+.pawprint{
+    position: fixed;
+    top: 3em;
+    left: 4.15em;
+
+}
+
+/*sticky*/
+.luna{
+    position: sticky;
+    left: 0;
+}
+
+/*benji hat*/
+.top-hat{
+    z-index: 1;
+}
